@@ -1,6 +1,6 @@
-#### CLOUD ACADEMY IDEAS ####
+# CLOUD ACADEMY IDEAS
 
-## TOPICS ##
+## BASIC TOPICS ##
 - Databases: RDS, NoSQL, Big Data
 - Big Data on AWS
 
