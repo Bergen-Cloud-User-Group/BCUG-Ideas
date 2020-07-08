@@ -1,4 +1,5 @@
-# CLOUD ACADEMY IDEAS
+# BERGEN CLOUD USER GROUP IDEAS
+Please feel free submit ideas to the the user group by submitting an issue to this repository!
 
 ## BASIC TOPICS ##
 - Databases: RDS, NoSQL, Big Data
