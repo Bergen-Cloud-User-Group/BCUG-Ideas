@@ -8,6 +8,7 @@ If you have interest and knowledge in one or more subjects, feel free to contact
 - Serverless:
    * Deploy a static website to S3 using CloudFront.
 - Databases: RDS, NoSQL, Big Data
+- CI/CD: Simple automatic deployments using Elastic Beanstalk
 - Big Data on AWS
 
 
